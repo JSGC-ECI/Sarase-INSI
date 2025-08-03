@@ -73,8 +73,8 @@ git clone https://github.com/JSGC-ECI/Sarase-INSI.git
 ## ▶️ Uso
 
 1. Descarga o clona el repositorio.
-2. Abre el archivo `index.html` con tu navegador preferido.
-3. Navega por las diferentes secciones: inicio, servicios, contacto, etc.
+2. Abre el archivo `Casa.html` con tu navegador preferido.
+3. Navega por las diferentes secciones.
 
 > \[!NOTE]
 > Este sitio no tiene funcionalidad de backend ni formularios activos: es una demostración visual del sistema real.
@@ -107,8 +107,7 @@ Al ser una aplicación estática sin lógica de backend, no se requieren pruebas
  ┣ 📜 Testimonios.html
  ┣ 📜 jquery.js
  ┣ 📜 nicepage.css
- ┣ 📜 nicepage.js
- 
+ ┗ 📜 nicepage.js
 ```
 
 ---
